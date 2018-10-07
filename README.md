@@ -21,12 +21,12 @@ And enjoy :)
 
 ## Some advices
 #### Your messages and channels will be saved on MongoDB
-1. Before chatting you have to SignUp or LogIn if you alredy have an account
-2. Use button **+** to create a new channel and then add other users by using  "To:  " field.
-3. Use :) to add emojies to your message
-4. You can read the information about yourself by clicking on "My profile" button in User Menu, that you can see after clicking on you avatar or your name
+1. Before chatting you have to SignUp or LogIn if you've already had
+2. Use the **+** button to create a new channel and then add other users by using the "To:  " field.
+3. Use ":)" to add emojies to your message
+4. You can read the information about yourself by clicking "My profile" button in User Menu, that you can see after clicking your avatar or your name
 5. You can use markdown sintax to make your message more creative and emotional
-6. You can enjoy users chatting using two different browsers. 
+6. You can enjoy chatting with differetn users using two different browsers. 
 
 ![Image alt](https://github.com/NikaOrl/react-lab/blob/master/image.png)
 
