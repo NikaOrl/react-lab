@@ -1,5 +1,39 @@
 # react-lab
 
+## Instruction for users
+
+1. Install npm packages
+
+```
+npm install
+```
+
+2. Run next commands for using react
+
+```
+npm run start:app 
+```
+And in another command line
+```
+npm run start:server
+```
+And enjoy :)
+
+## Some advices
+#### Your messages and channels will be saved on MongoDB
+1. Before chatting you have to SignUp or LogIn if you alredy have an account
+2. Use button **+** to create a new channel and then add other users by using  "To:  " field.
+3. Use :) to add emojies to your message
+4. You can read the information about yourself by clicking on "My profile" button in User Menu, that you can see after clicking on you avatar or your name
+5. You can use markdown sintax to make your message more creative and emotional
+6. You can enjoy users chatting using two different browsers. 
+
+![Image alt](https://github.com/NikaOrl/react-lab/blob/master/image.png)
+
+
+
+_______________________________________________________________
+
 Делаем простой мессенджер! Требования:
 1. Авторизация/Регистрация
 2. Личные сообщения
@@ -28,3 +62,4 @@
 6. ...
 
 Срок сдачи - `01.10.18 00:00` :-)
+
